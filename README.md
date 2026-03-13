@@ -80,7 +80,7 @@ plt.show()
 
 ## Output:
 <Figure size 2000x1000 with 1 Axes>
-
+<Figure size 2000x1000 with 1 Axes>
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
